@@ -21,7 +21,7 @@ Problems I'm going to solve as a Data Scientist
 </h2>
 
  <h3>
-1. What factors determine if the rocket will land successfully?
+ 1. What factors determine if the rocket will land successfully?
    
 2. The interaction amongst various features that determine the success rate of a successful landing.
    
