@@ -1,7 +1,7 @@
 # Data-Science-Project-For-SpaceX
 
 <h2>
-Python Data Analysis, Visualization and Machine Prediction training grand project
+Python Data Analysis, Visualization and Machine Prediction Prediction grand project
 </h2>
 
 <p align="center">
