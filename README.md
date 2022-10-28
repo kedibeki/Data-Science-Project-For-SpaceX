@@ -29,3 +29,5 @@ Problems I'm going to solve as a Data Scientist
 3. What operating conditions needs to be in place to ensure a successful landing program?
  
 </h3>
+
+https://kedirnasir10-8050.theiadocker-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai
