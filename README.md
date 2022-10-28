@@ -1,7 +1,7 @@
 # Data-Science-Project-For-SpaceX
 
 <h2>
-Python Data Analysis, Visualization and Machine Prediction Prediction grand project
+Python Data Analysis, Visualization and Machine Learning Prediction grand project
 </h2>
 
 <p align="center">
@@ -21,9 +21,9 @@ Problems I'm going to solve as a Data Scientist
 </h2>
 
  <h3>
-What factors determine if the rocket will land successfully?
+1. What factors determine if the rocket will land successfully?
    
-The interaction amongst various features that determine the success rate of a successful landing.
+2. The interaction amongst various features that determine the success rate of a successful landing.
    
-What operating conditions needs to be in place to ensure a successful landing program.
+3. What operating conditions needs to be in place to ensure a successful landing program.
  </h3>
