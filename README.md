@@ -32,4 +32,4 @@ Problems I'm going to solve as a Data Scientist
  
 </h4>
 
-https://kedirnasir10-8050.theiadocker-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai
+[My DashBorad](https://kedirnasir10-8050.theiadocker-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai)
