@@ -9,7 +9,7 @@ Python Data Analysis, Visualization and Machine Learning Prediction Grand Projec
 </p>
 
  <b>
- [Click On Here For My Full Presentation](https://github.com/kedibeki/Data-Science-Project-For SpaceX/blob/main/Kedir_Omer_SpaceX_Data_Science_Project.pdf)
+ [Click On Here For My Full Presentation](https://github.com/kedibeki/Data-Science-Project-For-SpaceX/blob/main/Kedir_Omer_SpaceX_Data_Science_Project.pdf)
  </b>
  
 <h2>
