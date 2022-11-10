@@ -6,10 +6,9 @@ Python Data Analysis, Visualization and Machine Learning Prediction grand projec
 
 <p align="center">
 <img src="[https://github.com/kedibeki/Data-Science-Project-For-SpaceX/blob/main/Kedir_Omer_SpaceX_Data_Science_Project.pdf](https://github.com/kedibeki/Data-Science-Project-For-SpaceX/blob/main/SpaceX%20cover%20Image.png)" alt=""/>
- 
- [Click On Here For My Full Presentation: ](/[C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week2/](https://github.com/kedibeki/Data-Science-Project-For-SpaceX/blob/main/Kedir_Omer_SpaceX_Data_Science_Project.pdf)) 
 </p>
 
+[Click On Here For My Full Presentation: ](/[C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week2/](https://github.com/kedibeki/Data-Science-Project-For-SpaceX/blob/main/Kedir_Omer_SpaceX_Data_Science_Project.pdf))
 <h4>
  
 https://github.com/kedibeki/Data-Science-Project-For-SpaceX/blob/main/Kedir_Omer_SpaceX_Data_Science_Project.pdf
