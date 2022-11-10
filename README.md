@@ -5,7 +5,7 @@ Python Data Analysis, Visualization and Machine Learning Prediction grand projec
 </h2>
 
 <p align="center">
-<img src="https://github.com/kedibeki/Data-Science-Project-For-SpaceX/blob/main/SpaceX%20cover%20Image.png" alt=""/>
+<img src="https://github.com/kedibeki/Data-Science-Project-For-SpaceX/blob/main/Kedir_Omer_SpaceX_Data_Science_Project.pdf" alt=""/>
 </p>
 
 <h4>
