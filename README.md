@@ -1,17 +1,15 @@
 # Data-Science-Project-For-SpaceX
 
 <h2>
-Python Data Analysis, Visualization and Machine Learning Prediction grand project
+Python Data Analysis, Visualization and Machine Learning Prediction Grand Project
 </h2>
 
 <p align="center">
 <img src="https://github.com/kedibeki/Data-Science-Project-For-SpaceX/blob/main/SpaceX%20cover%20Image.png" alt=""/>
 </p>
 
- [Click On Here For My Full Presentation: ](https://github.com/kedibeki/Data-Science-Project-For-SpaceX/blob/main/Kedir_Omer_SpaceX_Data_Science_Project.pdf)
-<h4>
 
-</h4>
+ [<b>Click On Here For My Full Presentation</b>](https://github.com/kedibeki/Data-Science-Project-For SpaceX/blob/main/Kedir_Omer_SpaceX_Data_Science_Project.pdf)
 
 <h2>
 Project background and context
