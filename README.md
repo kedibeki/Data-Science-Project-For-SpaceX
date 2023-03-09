@@ -26,7 +26,7 @@ Problems I'm going to solve as a Data Scientist
  
 1. What factors determine if the rocket will land successfully?
 
-2. Determinr the interaction among various features that determine the success rate of a successful landing?
+2. Determine the interaction among various features that determine the success rate of a successful landing?
 
 3. What operating conditions needs to be in place to ensure a successful landing program?
  
